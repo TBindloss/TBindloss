@@ -26,5 +26,5 @@ I’m passionate about building scalable infrastructure and automating the cloud
 ---
 
 ### 📊 GitHub Stats
-![Tom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Tom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TBindloss&show_icons=true&theme=radical)
 
